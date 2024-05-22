@@ -1,8 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>I am currently working on test automation for web applications at Tinkoff Bank, using TypeScript and WebdriverIO to create reliable and efficient tests.<br><br>👯 I’m looking to collaborate on:<br>I'm interested in collaborating on projects related to test automation, test tool development, and improving code quality. I am keen on projects that involve cutting-edge technologies and innovative approaches.<br><br>🤝 I’m looking for help with:<br>I'm looking for help in learning new testing technologies and methodologies, as well as optimizing the automation process. I'd be happy to discuss ideas and approaches with experienced colleagues from the community.<br><br>🌱 I’m currently learning:<br>I am currently learning about new technologies and tools for test automation, as well as diving deeper into TypeScript and its capabilities. I am also interested in development using frameworks like Angular, DevOps Tools (Ansible, k8s, clouds)<br><br>💬 Ask me about:<br>Feel free to ask me about WebdriverIO, test automation, TypeScript, best testing practices, and my experience working at Tinkoff Bank. I'm happy to share my knowledge and experience, as well as help with problem-solving and process optimization.<br><br>⚡ Fun fact:<br>During testing, I accidentally discovered a secret feature hidden by the developers in our web application in Lamoda. <br><br>
+### Hey, I'm Ivan 👋  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/good-gis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/good-gis) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/good_gis) 
+I'm a 26-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+- Check out my [website]() to learn more about me.
+- Explore my [blog]() where I share insights and learnings.
+ 
+## 📦 Toolbox
+
+**Frontend Development:** `Angular` `Node.js` `TypeScript` `Less` `Taiga-UI`
+ 
+**Version Control:** `Git` `GitLab`
+
+**Backend Development:** `Node.js` `RestApi` `Firebase` `Postgres` `Kafka` `Redis`
+
+**Testing:** `WebdriverIo` `Playwright` `HTTPie` `Charles`
+
+**Others:**  `Scrum` `Confluence` `Jira`
+ 
+## ✨ Fun Facts 
+
+- Black Widow is my favorite superhero.
+- As a kid, I wanted to be an submariner.
+- I love using Mac after switching from Linux.
+
+## 📫 Contact
+
+ For a quick response, DM me on [Telegram](https://t.me/good_gis). 
