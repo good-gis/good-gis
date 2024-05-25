@@ -20,7 +20,7 @@ I'm a 26-year-old developer based in Russia, and I'm passionate about crafting d
 ## ✨ Fun Facts 
 
 - Black Widow is my favorite superhero.
-- As a kid, I wanted to be an submariner.
+- As a kid, I wanted to be a submariner.
 - I love using Mac after switching from Linux.
 
 ## 📫 Contact
