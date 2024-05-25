@@ -2,7 +2,7 @@
 
 I'm a 26-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website](https://good-gis.github.io/portfolio/) to learn more about me.
+- Check out my [website](https://good-gis.tech/) to learn more about me.
 - Explore my [vk](https://vk.com/good_gis) where I share insights and learnings.
  
 ## 📦 Toolbox
