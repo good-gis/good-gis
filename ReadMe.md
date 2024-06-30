@@ -21,7 +21,7 @@ I'm a 26-year-old developer based in Russia, and I'm passionate about crafting d
 
 - Black Widow is my favorite superhero.
 - As a kid, I wanted to be a submariner.
-- I love using Mac after switching from Linux.
+- I love using Huawei Devices after switching from Apple.
 
 ## 📫 Contact
 
