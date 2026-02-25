@@ -3,7 +3,7 @@
 I'm a developer based in Russia, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://good-gis.ru/) to learn more about me.
-- Explore my [writings](https://good-gis.hashnode.dev/) where I share insights and learnings.
+- Explore my [writings](https://good-gis.github.io/) where I share insights and learnings.
  
 ## 📦 Toolbox
 
