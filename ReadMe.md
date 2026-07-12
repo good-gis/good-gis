@@ -3,7 +3,7 @@
 I'm a developer based in Russia, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://gis-glushkov.sourcecraft.site/profile/) to learn more about me.
-- Explore my [writings](https://good-gis.github.io/) where I share insights and learnings.
+- Explore my [writings](https://good-gis.github.io/) where I share insights and learnings - also available on [dzen](https://dzen.ru/id/6a536605f99a71685779870e?share_to=link)
  
 ## 📦 Toolbox
 
@@ -24,4 +24,4 @@ I'm a developer based in Russia, and I'm passionate about crafting digital exper
 
 ## 📫 Contact
 
- For a quick response, DM me on [Telegram](https://t.me/good_gis). 
+ For a quick response, DM me on [Telegram](https://t.me/good_gis) or on [VK](https://vk.com/good_gis)
